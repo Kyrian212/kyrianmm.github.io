@@ -2,7 +2,7 @@
   "name": "kyrian_portfolio",
   "version": "1.0.0",
   "description": "Responsive Kyrian Portfolio",
-  "main": "index.html",
+  "main": "index.js",
   "homepage": "https://Kyrian212.github.io/My-Portfolio-website",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
